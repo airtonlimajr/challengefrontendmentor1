@@ -1,4 +1,4 @@
-# Challenge Frontend Mentor (Huddle)
+# Challenge Frontend Mentor 1
 Página inicial construída em HTML5, CSS3 e Bootstrap, com layout totalmente responsivo e mobile. Atenção: este projeto foi desenvolvido em caráter educacional para a plataforma Frontend Mentor. 
 <b>Atenção:</b> este projeto é totalmente de caráter educacional.
 
